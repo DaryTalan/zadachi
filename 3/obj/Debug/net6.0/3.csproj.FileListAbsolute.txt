@@ -1,0 +1,15 @@
+E:\OKI_DOKI\progr c#\3\obj\Debug\net6.0\3.csproj.AssemblyReference.cache
+E:\OKI_DOKI\progr c#\3\obj\Debug\net6.0\3.GeneratedMSBuildEditorConfig.editorconfig
+E:\OKI_DOKI\progr c#\3\obj\Debug\net6.0\3.AssemblyInfoInputs.cache
+E:\OKI_DOKI\progr c#\3\obj\Debug\net6.0\3.AssemblyInfo.cs
+E:\OKI_DOKI\progr c#\3\obj\Debug\net6.0\3.csproj.CoreCompileInputs.cache
+E:\OKI_DOKI\progr c#\3\bin\Debug\net6.0\3.exe
+E:\OKI_DOKI\progr c#\3\bin\Debug\net6.0\3.deps.json
+E:\OKI_DOKI\progr c#\3\bin\Debug\net6.0\3.runtimeconfig.json
+E:\OKI_DOKI\progr c#\3\bin\Debug\net6.0\3.dll
+E:\OKI_DOKI\progr c#\3\bin\Debug\net6.0\3.pdb
+E:\OKI_DOKI\progr c#\3\obj\Debug\net6.0\3.dll
+E:\OKI_DOKI\progr c#\3\obj\Debug\net6.0\refint\3.dll
+E:\OKI_DOKI\progr c#\3\obj\Debug\net6.0\3.pdb
+E:\OKI_DOKI\progr c#\3\obj\Debug\net6.0\3.genruntimeconfig.cache
+E:\OKI_DOKI\progr c#\3\obj\Debug\net6.0\ref\3.dll
