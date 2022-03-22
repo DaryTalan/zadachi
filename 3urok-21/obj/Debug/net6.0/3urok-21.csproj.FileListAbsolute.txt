@@ -1,0 +1,15 @@
+E:\OKI_DOKI\progr c#\3urok-21\obj\Debug\net6.0\3urok-21.csproj.AssemblyReference.cache
+E:\OKI_DOKI\progr c#\3urok-21\obj\Debug\net6.0\3urok-21.GeneratedMSBuildEditorConfig.editorconfig
+E:\OKI_DOKI\progr c#\3urok-21\obj\Debug\net6.0\3urok-21.AssemblyInfoInputs.cache
+E:\OKI_DOKI\progr c#\3urok-21\obj\Debug\net6.0\3urok-21.AssemblyInfo.cs
+E:\OKI_DOKI\progr c#\3urok-21\obj\Debug\net6.0\3urok-21.csproj.CoreCompileInputs.cache
+E:\OKI_DOKI\progr c#\3urok-21\bin\Debug\net6.0\3urok-21.exe
+E:\OKI_DOKI\progr c#\3urok-21\bin\Debug\net6.0\3urok-21.deps.json
+E:\OKI_DOKI\progr c#\3urok-21\bin\Debug\net6.0\3urok-21.runtimeconfig.json
+E:\OKI_DOKI\progr c#\3urok-21\bin\Debug\net6.0\3urok-21.dll
+E:\OKI_DOKI\progr c#\3urok-21\bin\Debug\net6.0\3urok-21.pdb
+E:\OKI_DOKI\progr c#\3urok-21\obj\Debug\net6.0\3urok-21.dll
+E:\OKI_DOKI\progr c#\3urok-21\obj\Debug\net6.0\refint\3urok-21.dll
+E:\OKI_DOKI\progr c#\3urok-21\obj\Debug\net6.0\3urok-21.pdb
+E:\OKI_DOKI\progr c#\3urok-21\obj\Debug\net6.0\3urok-21.genruntimeconfig.cache
+E:\OKI_DOKI\progr c#\3urok-21\obj\Debug\net6.0\ref\3urok-21.dll
