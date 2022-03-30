@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\OKI_DOKI\\progr c#\\urok 4-3\\urok 4-3.csproj": {}
+    "E:\\OKI_DOKI\\progr c#\\urok_4\\urok 4-3\\urok 4-3.csproj": {}
   },
   "projects": {
-    "E:\\OKI_DOKI\\progr c#\\urok 4-3\\urok 4-3.csproj": {
+    "E:\\OKI_DOKI\\progr c#\\urok_4\\urok 4-3\\urok 4-3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\OKI_DOKI\\progr c#\\urok 4-3\\urok 4-3.csproj",
+        "projectUniqueName": "E:\\OKI_DOKI\\progr c#\\urok_4\\urok 4-3\\urok 4-3.csproj",
         "projectName": "urok 4-3",
-        "projectPath": "E:\\OKI_DOKI\\progr c#\\urok 4-3\\urok 4-3.csproj",
+        "projectPath": "E:\\OKI_DOKI\\progr c#\\urok_4\\urok 4-3\\urok 4-3.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "E:\\OKI_DOKI\\progr c#\\urok 4-3\\obj\\",
+        "outputPath": "E:\\OKI_DOKI\\progr c#\\urok_4\\urok 4-3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config"

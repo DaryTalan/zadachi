@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\OKI_DOKI\\progr c#\\3urok23\\3urok23.csproj",
+      "projectUniqueName": "E:\\OKI_DOKI\\progr c#\\urok_3\\3urok23\\3urok23.csproj",
       "projectName": "3urok23",
-      "projectPath": "E:\\OKI_DOKI\\progr c#\\3urok23\\3urok23.csproj",
+      "projectPath": "E:\\OKI_DOKI\\progr c#\\urok_3\\3urok23\\3urok23.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "E:\\OKI_DOKI\\progr c#\\3urok23\\obj\\",
+      "outputPath": "E:\\OKI_DOKI\\progr c#\\urok_3\\3urok23\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
