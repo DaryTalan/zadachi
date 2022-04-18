@@ -1,0 +1,15 @@
+E:\OKI_DOKI\progr c#\urok_8\2\bin\Debug\net6.0\2.exe
+E:\OKI_DOKI\progr c#\urok_8\2\bin\Debug\net6.0\2.deps.json
+E:\OKI_DOKI\progr c#\urok_8\2\bin\Debug\net6.0\2.runtimeconfig.json
+E:\OKI_DOKI\progr c#\urok_8\2\bin\Debug\net6.0\2.dll
+E:\OKI_DOKI\progr c#\urok_8\2\bin\Debug\net6.0\2.pdb
+E:\OKI_DOKI\progr c#\urok_8\2\obj\Debug\net6.0\2.csproj.AssemblyReference.cache
+E:\OKI_DOKI\progr c#\urok_8\2\obj\Debug\net6.0\2.GeneratedMSBuildEditorConfig.editorconfig
+E:\OKI_DOKI\progr c#\urok_8\2\obj\Debug\net6.0\2.AssemblyInfoInputs.cache
+E:\OKI_DOKI\progr c#\urok_8\2\obj\Debug\net6.0\2.AssemblyInfo.cs
+E:\OKI_DOKI\progr c#\urok_8\2\obj\Debug\net6.0\2.csproj.CoreCompileInputs.cache
+E:\OKI_DOKI\progr c#\urok_8\2\obj\Debug\net6.0\2.dll
+E:\OKI_DOKI\progr c#\urok_8\2\obj\Debug\net6.0\refint\2.dll
+E:\OKI_DOKI\progr c#\urok_8\2\obj\Debug\net6.0\2.pdb
+E:\OKI_DOKI\progr c#\urok_8\2\obj\Debug\net6.0\2.genruntimeconfig.cache
+E:\OKI_DOKI\progr c#\urok_8\2\obj\Debug\net6.0\ref\2.dll
